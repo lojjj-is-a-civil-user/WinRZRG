@@ -1,32 +1,20 @@
 # Prerequisites
-*.d
+none
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+none
 
 # Precompiled Headers
-*.gch
-*.pch
+none
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+F561.dll
 
 # Fortran module files
-*.mod
-*.smod
+none
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+none
 
 # Executables
-*.exe
-*.out
-*.app
+WinRZRG.exe
